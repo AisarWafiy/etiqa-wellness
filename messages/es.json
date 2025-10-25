@@ -1,0 +1,117 @@
+{
+  "header": {
+    "brand": "Etiqa Wellness",
+    "nav": {
+      "services": "Servicios",
+      "about": "Acerca de",
+      "testimonials": "Testimonios",
+      "contact": "Contacto"
+    },
+    "signIn": "Iniciar Sesión",
+    "bookSession": "Reservar Sesión"
+  },
+  "hero": {
+    "badge": "Transforma Tu Bienestar",
+    "title": "Encuentra el Equilibrio en Mente, Cuerpo y Espíritu",
+    "description": "Experimenta el bienestar holístico a través de programas personalizados diseñados para nutrir tu bienestar completo. Comienza tu viaje hacia una vida más saludable y equilibrada hoy.",
+    "startJourney": "Comienza Tu Viaje",
+    "explorePrograms": "Explorar Programas",
+    "stats": {
+      "clients": "Clientes Felices",
+      "satisfaction": "Tasa de Satisfacción"
+    },
+    "coach": "Coach de Bienestar"
+  },
+  "features": {
+    "title": "Por Qué Elegir Etiqa Wellness Wellness",
+    "description": "Combinamos la sabiduría antigua con la ciencia moderna para crear experiencias de bienestar transformadoras.",
+    "items": {
+      "holistic": {
+        "title": "Enfoque Holístico",
+        "description": "Programas integrales de bienestar que abordan mente, cuerpo y espíritu para una transformación completa."
+      },
+      "personalized": {
+        "title": "Planes Personalizados",
+        "description": "Viajes de bienestar personalizados adaptados a tus necesidades, objetivos y estilo de vida únicos."
+      },
+      "expert": {
+        "title": "Orientación Experta",
+        "description": "Trabaja con coaches de bienestar certificados y profesionales dedicados a tu éxito."
+      },
+      "natural": {
+        "title": "Métodos Naturales",
+        "description": "Prácticas basadas en evidencia arraigadas en la naturaleza y la sabiduría antigua para resultados sostenibles."
+      }
+    }
+  },
+  "services": {
+    "title": "Nuestros Programas de Bienestar",
+    "description": "Programas cuidadosamente elaborados diseñados para apoyar tu viaje hacia la salud y el bienestar óptimos.",
+    "learnMore": "Saber Más",
+    "items": {
+      "mindfulness": {
+        "title": "Atención Plena y Meditación",
+        "description": "Aprende técnicas poderosas para reducir el estrés, aumentar el enfoque y cultivar la paz interior a través de prácticas de meditación guiada.",
+        "duration": "Programa de 8 semanas"
+      },
+      "nutrition": {
+        "title": "Coaching Nutricional",
+        "description": "Descubre hábitos alimenticios sostenibles que nutren tu cuerpo y apoyan tus objetivos de bienestar con planificación de comidas personalizada.",
+        "duration": "Programa de 12 semanas"
+      },
+      "movement": {
+        "title": "Movimiento y Yoga",
+        "description": "Fortalece tu cuerpo y calma tu mente con flujos de yoga suaves y prácticas de movimiento adecuadas para todos los niveles.",
+        "duration": "Programa de 6 semanas"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Historias Transformadoras",
+    "description": "Escucha a los miembros de nuestra comunidad que han experimentado cambios profundos en sus vidas.",
+    "items": {
+      "emily": {
+        "name": "Emily Chen",
+        "role": "Directora de Marketing",
+        "content": "El programa de atención plena transformó completamente cómo manejo el estrés. Me siento más centrada y enfocada que nunca."
+      },
+      "michael": {
+        "name": "Michael Rodriguez",
+        "role": "Emprendedor",
+        "content": "Trabajar con Etiqa Wellness ha cambiado mi vida. El enfoque personalizado marcó toda la diferencia para lograr mis objetivos de bienestar."
+      },
+      "sarah": {
+        "name": "Sarah Thompson",
+        "role": "Maestra",
+        "content": "Me encanta el enfoque holístico. La combinación de nutrición, movimiento y atención plena ha mejorado cada aspecto de mi vida."
+      }
+    }
+  },
+  "cta": {
+    "title": "¿Listo para Comenzar Tu Viaje de Bienestar?",
+    "description": "Da el primer paso hacia una vida más saludable y equilibrada. Reserva tu consulta gratuita hoy y descubre cómo podemos apoyar tu transformación.",
+    "bookConsultation": "Reservar Consulta Gratuita",
+    "viewPricing": "Ver Precios"
+  },
+  "footer": {
+    "tagline": "Empoderando a las personas para lograr el bienestar holístico a través de prácticas conscientes y atención personalizada.",
+    "programs": {
+      "title": "Programas",
+      "mindfulness": "Atención Plena",
+      "nutrition": "Nutrición",
+      "movement": "Movimiento",
+      "coaching": "Coaching"
+    },
+    "company": {
+      "title": "Empresa",
+      "about": "Acerca de Nosotros",
+      "team": "Nuestro Equipo",
+      "careers": "Carreras",
+      "contact": "Contacto"
+    },
+    "connect": "Conectar",
+    "copyright": "© 2025 Etiqa Wellness Wellness. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  }
+}

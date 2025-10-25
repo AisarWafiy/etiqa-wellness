@@ -1,0 +1,117 @@
+{
+  "header": {
+    "brand": "Etiqa Wellness",
+    "nav": {
+      "services": "Services",
+      "about": "About",
+      "testimonials": "Testimonials",
+      "contact": "Contact"
+    },
+    "signIn": "Sign In",
+    "bookSession": "Book Session"
+  },
+  "hero": {
+    "badge": "Transform Your Wellbeing",
+    "title": "Find Balance in Mind, Body & Spirit",
+    "description": "Experience holistic wellness through personalized programs designed to nurture your complete wellbeing. Start your journey to a healthier, more balanced life today.",
+    "startJourney": "Start Your Journey",
+    "explorePrograms": "Explore Programs",
+    "stats": {
+      "clients": "Happy Clients",
+      "satisfaction": "Satisfaction Rate"
+    },
+    "coach": "Wellness Coach"
+  },
+  "features": {
+    "title": "Why Choose Etiqa Wellness Wellness",
+    "description": "We combine ancient wisdom with modern science to create transformative wellness experiences.",
+    "items": {
+      "holistic": {
+        "title": "Holistic Approach",
+        "description": "Comprehensive wellness programs that address mind, body, and spirit for complete transformation."
+      },
+      "personalized": {
+        "title": "Personalized Plans",
+        "description": "Customized wellness journeys tailored to your unique needs, goals, and lifestyle."
+      },
+      "expert": {
+        "title": "Expert Guidance",
+        "description": "Work with certified wellness coaches and practitioners dedicated to your success."
+      },
+      "natural": {
+        "title": "Natural Methods",
+        "description": "Evidence-based practices rooted in nature and ancient wisdom for sustainable results."
+      }
+    }
+  },
+  "services": {
+    "title": "Our Wellness Programs",
+    "description": "Carefully crafted programs designed to support your journey to optimal health and wellbeing.",
+    "learnMore": "Learn More",
+    "items": {
+      "mindfulness": {
+        "title": "Mindfulness & Meditation",
+        "description": "Learn powerful techniques to reduce stress, increase focus, and cultivate inner peace through guided meditation practices.",
+        "duration": "8-week program"
+      },
+      "nutrition": {
+        "title": "Nutrition Coaching",
+        "description": "Discover sustainable eating habits that nourish your body and support your wellness goals with personalized meal planning.",
+        "duration": "12-week program"
+      },
+      "movement": {
+        "title": "Movement & Yoga",
+        "description": "Strengthen your body and calm your mind with gentle yoga flows and movement practices suitable for all levels.",
+        "duration": "6-week program"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Transformative Stories",
+    "description": "Hear from our community members who have experienced profound changes in their lives.",
+    "items": {
+      "emily": {
+        "name": "Emily Chen",
+        "role": "Marketing Director",
+        "content": "The mindfulness program completely transformed how I handle stress. I feel more centered and focused than ever before."
+      },
+      "michael": {
+        "name": "Michael Rodriguez",
+        "role": "Entrepreneur",
+        "content": "Working with Etiqa Wellness has been life-changing. The personalized approach made all the difference in achieving my wellness goals."
+      },
+      "sarah": {
+        "name": "Sarah Thompson",
+        "role": "Teacher",
+        "content": "I love the holistic approach. The combination of nutrition, movement, and mindfulness has improved every aspect of my life."
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Begin Your Wellness Journey?",
+    "description": "Take the first step towards a healthier, more balanced life. Book your free consultation today and discover how we can support your transformation.",
+    "bookConsultation": "Book Free Consultation",
+    "viewPricing": "View Pricing"
+  },
+  "footer": {
+    "tagline": "Empowering individuals to achieve holistic wellness through mindful practices and personalized care.",
+    "programs": {
+      "title": "Programs",
+      "mindfulness": "Mindfulness",
+      "nutrition": "Nutrition",
+      "movement": "Movement",
+      "coaching": "Coaching"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "team": "Our Team",
+      "careers": "Careers",
+      "contact": "Contact"
+    },
+    "connect": "Connect",
+    "copyright": "© 2025 Etiqa Wellness Wellness. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
